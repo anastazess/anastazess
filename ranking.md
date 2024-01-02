@@ -2,11 +2,11 @@
 
 | Standing | Points | Team Name         | Roster                                         |
 | -: | -: | :- | :- |
-|        1 |   800 | FaZe               |             |
+|        1 |   800 | FaZe               | karrigan, SunPayus, frozen, ropz, rain         |
 |        2 |   600 | Team Spirit        |             |
 |        3 |   350 | Astralis           |             |
 |        4 |   280 | G2                 |             |
-|        5 |   160 | GamerLegion        |             |
+|        5 |   160 | GamerLegion        | IM, dycha, Snax, Isak, mantuu                  |
 |        6 |   120 | Aurora             | FL1T, deko_O, jimpphat, Aleksib, xertioN       |
 |        7 |   120 | Spirit YO          |             |
 |        8 |   115 | Vitality           | apEX, ZywOo, flameZ, Spinx, mezii              |
